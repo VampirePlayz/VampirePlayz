@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VampirePlayz
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning AI/ML, Python, and GDScript
+- 🌱 I’m currently learning AI/ML, and Game Development 
 - 💞️ I’m looking to collaborate on interesting dev projects and game ideas
 - 📫 To reach me mail me on vampireplayz274@gmail.com or @vampire._.writes_ on instagram 
 - 😄 Pronouns: He/Him 
